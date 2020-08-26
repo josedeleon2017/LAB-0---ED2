@@ -13,7 +13,7 @@ Objetivos:
 
 En la implementación de la serie II se seleccionó el escenario de las clases como una empresa de electrodomésticos, en donde la empresa contenía distintas sucursales representadas por la clase tienda. La clase tienda contiene a la vez la clase persona además de sus propiedades específicas, luego la clase persona contiene la clase ventas. Esta implementación es un ejemplo sencillo de la abstracción y asociación de datos.
 
-![LABORATORIO%20#0%200825b0ef72564c58b0db86f8cc8d8f0e/diagrama.png](LABORATORIO%20#0%200825b0ef72564c58b0db86f8cc8d8f0e/diagrama.png)
+<img src="https://github.com/josedeleon2017/LAB-0---ED2/blob/master/SERIE%20II/diagrama.png"/>
 
 ### SERIE III
 
