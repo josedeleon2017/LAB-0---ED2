@@ -1,0 +1,86 @@
+{
+	"IdTienda": "GU-01",
+	"Direccion": "Naranjo Mall, Zona 4 de Mixco",
+	"Gerente": "Luis Perez",
+	"Telefono": "20002000",
+	"Departamento": "Guatemala",
+	
+	"Personas":[
+					{
+						"IdPersona": 2996768110101,
+						"Nombres": "José Vinicio",
+						"Apellidos": "De León Jiménez",
+						"Area": "TV y Video",
+						"Puesto": "Vendedor",
+						"Jornada": "7:00am - 2:00pm",
+						"Salario": 6500,
+						"Ventas":[
+									{
+										"IdVenta": 1,
+										"Producto": "Samsung Smart TV R3TT5",
+										"Descripcion": "Televisión ultra delgada 4k de 50 pulgadas",
+										"Marca": "Samsung",
+										"Precio": 7500,
+										"Codigo": "SM-10010",
+										"Fecha": "24/08/2020"
+									},
+									{
+										"IdVenta": 2,
+										"Producto": "LG Smart TV WSQAM50",
+										"Descripcion": "Televisión ultra delgada 8k de 32 pulgadas",
+										"Marca": "LG",
+										"Precio": 2500,
+										"Codigo": "LG-10111",
+										"Fecha": "23/08/2020"
+									},
+									{
+										"IdVenta": 3,
+										"Producto": "RCA Smart TV TSTXI0",
+										"Descripcion": "Televisión 1080p de 40 pulgadas",
+										"Marca": "RCA",
+										"Precio": 3500,
+										"Codigo": "RC-11011",
+										"Fecha": "22/08/2020"
+									}
+								]
+					},
+					{
+						"IdPersona": 2685657320101,
+						"Nombres": "Vinicio José",
+						"Apellidos": "Jiménez De León ",
+						"Area": "Linea Blanca",
+						"Puesto": "Vendedor",
+						"Jornada": "10:00am - 5:00pm",
+						"Salario": 6500,
+						"Ventas":[
+									{
+										"IdVenta": 3,
+										"Producto": "Refrigerador Samsung PPT5",
+										"Descripcion": "Refrigerador cúbico de 9 pulgadas",
+										"Marca": "Samsung",
+										"Precio": 3500,
+										"Codigo": "SMW-01010",
+										"Fecha": "24/08/2020"
+									},
+									{
+										"IdVenta": 4,
+										"Producto": "Refrigerador Mabe PRR5",
+										"Descripcion": "Refrigerador cúbico de 12 pulgadas",
+										"Marca": "Mabe",
+										"Precio": 4500,
+										"Codigo": "MB-10111",
+										"Fecha": "23/08/2020"
+									},
+									{
+										"IdVenta": 5,
+										"Producto": "Refrigerador LG WHU5",
+										"Descripcion": "Refrigerador rectangular de 55 pulgadass",
+										"Marca": "LG",
+										"Precio": 8500,
+										"Codigo": "LGW-11111",
+										"Fecha": "22/08/2020"
+									}
+								]
+					}
+				]
+}
